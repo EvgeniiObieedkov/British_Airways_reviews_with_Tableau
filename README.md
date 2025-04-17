@@ -1,4 +1,4 @@
-📊 View the Dashboard on Tableau Public ➡︎ [Tableau Public](https://public.tableau.com/app/profile/evgenii.obieedkov/viz/BritishAirwaysReviews_17439648487800/Dashboard)
+📊 View the Dashboard on Tableau Public ➡︎ [British Airways Reviews Dashboard](https://public.tableau.com/app/profile/evgenii.obieedkov/viz/BritishAirwaysReviews_17439648487800/Dashboard)
 
 ### British Airways Reviews Dashboard — Tableau Project
 
